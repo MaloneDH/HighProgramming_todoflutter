@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511408273082",
+    "project_id": "higtprogrammingfinalproj",
+    "storage_bucket": "higtprogrammingfinalproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511408273082:android:77cc5dc85a88adbac2b483",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511408273082-p0iup95e2rts1gjvge40ng3l4v2d26ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBixz0uLE_t8p84AHzkMeCNKXt1ryKawag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511408273082-p0iup95e2rts1gjvge40ng3l4v2d26ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

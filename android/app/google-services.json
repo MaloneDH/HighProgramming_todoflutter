@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227827544826",
+    "firebase_url": "https://highprogrammingftest-default-rtdb.firebaseio.com",
+    "project_id": "highprogrammingftest",
+    "storage_bucket": "highprogrammingftest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227827544826:android:74cbb2b8a8a6f988a48f43",
+        "android_client_info": {
+          "package_name": "com.example.high_finalteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227827544826-t252u41qpqegilbssgoathri4ii39d6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCysx9nHv7toNiUTHMOSqAEwH2NKPMpucw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227827544826-t252u41qpqegilbssgoathri4ii39d6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
