@@ -49,5 +49,7 @@ todo의 상세 설명을 볼 수 있는 사이트이다.
 ## 참고사이트
 
 firestore crud : https://www.youtube.com/watch?v=-_G7Gvo7muM&list=PL9n0l8rSshSnSO4dNTJmKGNa0VNHrCQFR&index=9
+
 OpenApi : https://dev-yakuza.posstree.com/ko/flutter/http/
+
 dark mode : https://www.youtube.com/watch?v=3GwV7bn6NLk
