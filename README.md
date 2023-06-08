@@ -24,21 +24,30 @@ flutter을 기반으로 제작한 Todo 앱
 ### 메인 페이지
 
 ![MainPage](./flutter_01.png)
+추가한 todo 리스트를 확인할 수 있는 페이지이다.
 
 ### 추가 페이지
 
 ![AddPage](./flutter_02.png)
+todo를 추가 할 수 있는 페이지이다.
 
 ### 수정 페이지
 
 ![EditPage](./flutter_03.png)
+todo를 수정하거나 삭제 할 수 있는 페이지이다.
 
 ### 옵션 페이지
 
 ![OptionPage](./flutter_04.png)
+앱의 설정을 변경 할 수 잇는 페이지이다.
 
 ### 상세 페이지
 
 ![DescriptionPage](./flutter_05.png)
+todo의 상세 설명을 볼 수 있는 사이트이다.
 
 ## 참고사이트
+
+firestore crud : https://www.youtube.com/watch?v=-_G7Gvo7muM&list=PL9n0l8rSshSnSO4dNTJmKGNa0VNHrCQFR&index=9
+OpenApi : https://dev-yakuza.posstree.com/ko/flutter/http/
+dark mode : https://www.youtube.com/watch?v=3GwV7bn6NLk
